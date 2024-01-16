@@ -1,0 +1,7 @@
+config/
+cache/
+media/
+media2/
+*.log
+.dockerignore
+*.env
